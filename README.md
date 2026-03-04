@@ -2,8 +2,8 @@
 
 ## Sobre mim
 - 🎓 **Curso:** [Desenvolvimento de sistemas]
-- 📚 **Matéria favorita:** [Componente ou conteúdo que mais gostou]
-- 🎮 **Hobby:** [Seu hobby favorito]
+- 📚 **Matéria favorita:** [Educação Física]
+- 🎮 **Hobby:** [Jogar Futsal]
 
 ## Tecnologias que vou estudar
 - JavaScript
