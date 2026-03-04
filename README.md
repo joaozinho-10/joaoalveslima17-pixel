@@ -10,8 +10,6 @@
 - HTML5
 - CSS3
 
-## Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
 
 ---
 
